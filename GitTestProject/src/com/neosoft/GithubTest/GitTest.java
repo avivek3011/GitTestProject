@@ -8,7 +8,7 @@ public class GitTest {
 			System.out.println("SE");
 		}
 		else {
-			System.out.println("not a SE");
+			System.out.println("not  SE");
 		}
 	}
 
